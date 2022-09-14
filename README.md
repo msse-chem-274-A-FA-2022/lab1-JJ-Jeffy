@@ -23,3 +23,5 @@ In this lab, you will be using the molecular simulation code we wrote in Chem 28
 
 ### Section 2 - Runnning Simulations
 1. Use the notebook `run_mcsim.ipynb` to run Monte Carlo simulations. Follow the instructions in the notebook.
+
+//I had all the answers written here but I think I did not save them and so now they are all gone. Please let me know and I am more than happy to include the answers here. 
